@@ -15,18 +15,18 @@ int main()
     {
         case 1:
         d=a+b;
-        cout<<" the addition of 2 number is"<<d;
+        cout<<" the addition of 2 number is"<<" "<<d;
         break;
         case 2:
         d=a-b;
-        cout<<" the Subtraction of 2 number is"<<d;
+        cout<<" the Subtraction of 2 number is"<<" "<<d;
         break;
         case 3:
         d=a*b;
-        cout<<" the Multiplication of 2 number is"<<d;
+        cout<<" the Multiplication of 2 number is"<<" "<<d;
         break;
         d=a/b;
-        cout<<" the Division of 2 number is"<<d;
+        cout<<" the Division of 2 number is"<<" "<<d;
         break;
         default:
         cout<<"wrong Input"<<endl;
